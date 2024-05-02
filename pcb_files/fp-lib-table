@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Ic - pz2656")(type "KiCad")(uri "${KIPRJMOD}/Ic - pz2656.pretty")(options "")(descr ""))
+)
