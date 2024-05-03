@@ -572,7 +572,7 @@
     "meta": {
       "version": 1
     },
-    "net_format_name": "",
+    "net_format_name": "KiCad",
     "ngspice": {
       "fix_include_paths": true,
       "meta": {
@@ -595,7 +595,7 @@
   "sheets": [
     [
       "9b56ef12-cc9e-410c-b855-82396c6f84f4",
-      "Racine"
+      "Root"
     ]
   ],
   "text_variables": {}

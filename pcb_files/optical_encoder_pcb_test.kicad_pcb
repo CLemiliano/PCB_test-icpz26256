@@ -5602,7 +5602,7 @@
 			)
 		)
 		(property "Value" "Conn_THT_padx04"
-			(at 0 9.95 270)
+			(at 0 9.95 -90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "1e335535-2036-4d9a-b37a-addb9f6ac97c")
@@ -5805,7 +5805,7 @@
 			(uuid "7d5673e5-d683-4bcd-a545-8677bbbe5f63")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 3.81 360)
+			(at 0 3.81 0)
 			(layer "F.Fab")
 			(uuid "d12d2609-04db-4146-a7ea-59c76eb97c70")
 			(effects
@@ -8417,7 +8417,7 @@
 			(at 3.75 -2.75 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "552c5982-9f0c-4ceb-98c7-9dfbf73cdfcc")
+			(uuid "90305df1-0e53-4442-9860-468fe9630f64")
 			(effects
 				(font
 					(size 1 1)
@@ -8428,7 +8428,7 @@
 		(property "Value" "MountingHole_2.2mm_M2"
 			(at -11.75 1.75 0)
 			(layer "F.Fab")
-			(uuid "d5c14778-c356-42b0-be38-8db3a123359a")
+			(uuid "96352fec-d887-42d7-b6ca-015003045b5f")
 			(effects
 				(font
 					(size 1 1)
@@ -8482,7 +8482,7 @@
 			)
 			(fill none)
 			(layer "Cmts.User")
-			(uuid "77328ec5-4bcb-4d2b-bd85-058ac78bb0f6")
+			(uuid "b78ad830-4ce4-45a2-be99-a0c4ad1b073b")
 		)
 		(fp_circle
 			(center 0 0)
@@ -8493,12 +8493,12 @@
 			)
 			(fill none)
 			(layer "F.CrtYd")
-			(uuid "e3008412-6c57-4191-8a42-9b888c33bd31")
+			(uuid "a778c663-8bfb-409e-bda2-a9e23e925876")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
 			(layer "F.Fab")
-			(uuid "102da73f-7a59-4c68-a447-baeb351ec1d9")
+			(uuid "9c13cc23-0306-4157-835b-73a0db344f20")
 			(effects
 				(font
 					(size 1 1)
@@ -8511,7 +8511,7 @@
 			(size 2.2 2.2)
 			(drill 2.2)
 			(layers "F&B.Cu" "*.Mask")
-			(uuid "f39a608d-983c-4963-ada7-aeb7a8e4af60")
+			(uuid "5ffa4bf6-d191-4067-9eaa-b5fdd8e0d8f3")
 		)
 	)
 	(footprint "MountingHole:MountingHole_2.2mm_M2"
@@ -8524,7 +8524,7 @@
 			(at 3.75 -2.75 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "552c5982-9f0c-4ceb-98c7-9dfbf73cdfcc")
+			(uuid "e030aa22-010f-4705-8612-b783c53e4fba")
 			(effects
 				(font
 					(size 1 1)
@@ -8535,7 +8535,7 @@
 		(property "Value" "MountingHole_2.2mm_M2"
 			(at -12 -1.25 0)
 			(layer "F.Fab")
-			(uuid "d5c14778-c356-42b0-be38-8db3a123359a")
+			(uuid "2a51c696-2611-4ec3-b85d-c8fd8695a752")
 			(effects
 				(font
 					(size 1 1)
@@ -8589,7 +8589,7 @@
 			)
 			(fill none)
 			(layer "Cmts.User")
-			(uuid "77328ec5-4bcb-4d2b-bd85-058ac78bb0f6")
+			(uuid "5228c212-0941-4725-a771-bdd939c98114")
 		)
 		(fp_circle
 			(center 0 0)
@@ -8600,12 +8600,12 @@
 			)
 			(fill none)
 			(layer "F.CrtYd")
-			(uuid "e3008412-6c57-4191-8a42-9b888c33bd31")
+			(uuid "a3f88ad6-54aa-4d00-8b69-e1a298fb05db")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
 			(layer "F.Fab")
-			(uuid "102da73f-7a59-4c68-a447-baeb351ec1d9")
+			(uuid "719f2ebf-05b6-4275-9ca8-6757a9663ef4")
 			(effects
 				(font
 					(size 1 1)
@@ -8618,7 +8618,7 @@
 			(size 2.2 2.2)
 			(drill 2.2)
 			(layers "F&B.Cu" "*.Mask")
-			(uuid "f39a608d-983c-4963-ada7-aeb7a8e4af60")
+			(uuid "6760bd09-17a5-4448-95fd-1222c84119c7")
 		)
 	)
 	(footprint "MountingHole:MountingHole_2.2mm_M2"
@@ -8631,7 +8631,7 @@
 			(at 3.75 -2.75 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "552c5982-9f0c-4ceb-98c7-9dfbf73cdfcc")
+			(uuid "ca17d159-2420-4be5-a686-7ef2aa20b406")
 			(effects
 				(font
 					(size 1 1)
@@ -8642,7 +8642,7 @@
 		(property "Value" "MountingHole_2.2mm_M2"
 			(at 11.5 2.25 0)
 			(layer "F.Fab")
-			(uuid "d5c14778-c356-42b0-be38-8db3a123359a")
+			(uuid "065871db-bf31-44c3-8f3e-6bb104e9f128")
 			(effects
 				(font
 					(size 1 1)
@@ -8696,7 +8696,7 @@
 			)
 			(fill none)
 			(layer "Cmts.User")
-			(uuid "77328ec5-4bcb-4d2b-bd85-058ac78bb0f6")
+			(uuid "bc7f4f58-06fa-4bc0-8fe8-a814ea8f843c")
 		)
 		(fp_circle
 			(center 0 0)
@@ -8707,12 +8707,12 @@
 			)
 			(fill none)
 			(layer "F.CrtYd")
-			(uuid "e3008412-6c57-4191-8a42-9b888c33bd31")
+			(uuid "dd1ea35a-053f-44b7-9cbd-09359d2a6e45")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
 			(layer "F.Fab")
-			(uuid "102da73f-7a59-4c68-a447-baeb351ec1d9")
+			(uuid "02ad537f-3efc-4dd9-87f8-151e0e03757c")
 			(effects
 				(font
 					(size 1 1)
@@ -8725,7 +8725,7 @@
 			(size 2.2 2.2)
 			(drill 2.2)
 			(layers "F&B.Cu" "*.Mask")
-			(uuid "f39a608d-983c-4963-ada7-aeb7a8e4af60")
+			(uuid "200d016a-a48a-411e-ac77-54222f256259")
 		)
 	)
 	(footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
@@ -9309,6 +9309,32 @@
 				(bold yes)
 			)
 			(justify mirror)
+		)
+	)
+	(gr_text "C1 & C2 sont à placer au plus près de la pin 14"
+		(at 109 76.3 0)
+		(layer "Cmts.User")
+		(uuid "62876edb-bc50-4904-9d72-c3114947d0f8")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "Même chose avec C3, C4 & C5"
+		(at 109 80 0)
+		(layer "Cmts.User")
+		(uuid "7aa27d51-39be-4110-9701-7cce4b439614")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify left bottom)
 		)
 	)
 	(gr_text_box "sortir VDDA par un connecteur JF13 ?"
